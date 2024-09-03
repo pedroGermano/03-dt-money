@@ -16,7 +16,7 @@ export const HeaderContent = styled.div`
   align-items: center;
 `;
 
-export const NewTransactionsButton = styled.button`
+export const NewTransactionButton = styled.button`
   height: 3.25rem;
   border: 0;
   border-radius: 6px;
